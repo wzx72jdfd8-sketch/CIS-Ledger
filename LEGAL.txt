@@ -1,0 +1,42 @@
+CIS LEDGER — LEGAL NOTES
+========================
+
+Product: CIS Ledger
+Owner: Matthew Benton
+Version: 1.1.3 (31 August 2026)
+
+Not HMRC software
+-----------------
+CIS Ledger is not HMRC-recognised tax software. It does not file CIS300
+monthly returns. It does not file Self Assessment. It does not connect
+to HMRC or verify subcontractors. It does not replace the contractor's
+official payment and deduction statement.
+
+Records only
+------------
+The app produces invoices and records you keep on this computer. It is
+a record-keeping aid, not tax advice.
+
+Your responsibility
+-------------------
+You are responsible for the accuracy of names, UTRs, rates, line types,
+VAT, and amounts. Check figures against the contractor's statement and
+take advice from HMRC or a qualified accountant where you need it.
+CIS rates are set when the contractor verifies you with HMRC.
+
+Local data only
+---------------
+v1 stores your profile, contractors, invoices and unlock PIN in this
+web browser on this device (localStorage). Data is not uploaded to the
+seller. Clearing site data deletes the book unless you have a JSON
+backup. The unlock PIN is not encryption.
+
+Licence
+-------
+CIS Ledger is free software under the MIT Licence. Copyright (c) 2026
+Matthew Benton. Provided as-is, with no warranty for fitness,
+uninterrupted use, or tax outcomes.
+
+Website / support
+-----------------
+https://matthewbenton.com

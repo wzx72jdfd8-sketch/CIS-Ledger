@@ -1,0 +1,5 @@
+CIS Ledger
+Version: 1.1.3
+Date: 2026-08-31
+Owner: Matthew Benton
+Not HMRC-recognised tax software.
