@@ -1,0 +1,46 @@
+CIS LEDGER
+==========
+
+Invoices and CIS records for UK construction subcontractors
+(electricians, plumbers, carpenters, scaffolders, groundworkers).
+
+This is not HMRC-recognised tax software. It does not file CIS300
+or Self Assessment. Your books stay on this computer.
+
+Website: https://matthewbenton.com
+
+START IN 5 STEPS
+----------------
+1. Unzip so you have a folder called CIS-Ledger.
+2. Windows: double-click Start-CIS-Ledger.bat
+   Mac:     double-click Start-CIS-Ledger.command
+   Linux:   see INSTALL.md (run start-cis-ledger.sh)
+3. If it says Python is missing:
+   install Python 3 from https://www.python.org/downloads/
+   On Windows, tick "Add python.exe to PATH", then try step 2 again.
+4. Your browser should open http://127.0.0.1:8080/
+   Click "Open the app".
+5. Leave the starter window open while you use CIS Ledger.
+   Close that window when you have finished.
+
+DEMO LOGIN
+----------
+User:     demo
+Password: cisledger
+
+Then go to Settings and put in your own name, UTR, bank and VAT.
+
+READ NEXT
+---------
+USER-GUIDE.md   how to invoice, CIS maths, backups, troubleshooting
+INSTALL.md      Windows / Mac / Linux install help
+LEGAL.txt       what this software is and is not
+
+Sample invoice and statement layouts are in the app folder:
+sample-invoice.html and sample-statement.html.
+
+CIS Ledger is free (MIT Licence). No subscription, no card.
+
+Owner: Matthew Benton
+Website / support: https://matthewbenton.com
+Version: see VERSION.txt
